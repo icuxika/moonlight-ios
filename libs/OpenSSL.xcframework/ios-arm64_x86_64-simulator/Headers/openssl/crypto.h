@@ -13,6 +13,7 @@
 
 # include <stdlib.h>
 # include <time.h>
+# include <sys/_types/_time_t.h>
 
 # include <openssl/e_os2.h>
 
